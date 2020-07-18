@@ -1,9 +1,8 @@
 # hello-world
-Hello humans
-I like Mars, but i prefer the beaches on Earth
-//learning C++ and JavaScript
+Hello Coders
+
+//learning C++, JavaScript and WEB sistems
 ...
 ...
-abduzing humans
 ...
-completed
+Studying Computer Engineering
